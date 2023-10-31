@@ -1,0 +1,4 @@
+BBDD(.sql): Se ha elegido la extension sql ya que estamos usandola actualmente y es una de las bases para aprender Bases de Datos
+Entornos de Desarrollo(.drawio): Se ha elegido la extension drawio ya que es la que se usa para crear diagramas de flujo
+Lenguaje de Marcas(.html): Hemos elegido la extension html porque es el metodo principal para crear páginas web
+Programación(.java): Hemos elegido java ya que lo usamos actualmente para aprender a programar

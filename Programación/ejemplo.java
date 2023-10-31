@@ -20,8 +20,6 @@ public class Ejercicio2 {
         r1 = teclado.nextDouble();
         System.out.println("Dime otro número real: ");
         r2 = teclado.nextDouble();
-        System.out.println("El resultado de la suma de " + r1 + " + " + r2 + " es igual a " + (r1+r2));
-        System.out.println("El resultado de la resta de " + r1 + " - " + r2 + " es igual a " + (r1-r2));
         System.out.println("El resultado de la multiplicación de " + r1 + " * " + r2 + " es igual a " + (r1*r2));
         System.out.println("El resultado de la división de " + r1 + " : " + r2 + " es igual a " + (r1/r2));
         System.out.println("Dime un número entero para operar con el primer real: ");
